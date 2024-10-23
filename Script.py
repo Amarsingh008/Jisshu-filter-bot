@@ -116,7 +116,13 @@ User - {}"""
 """
 
     FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/movierequest_latest">movierequest_latest</a>」</b>"""
+
     
+    REPO = """<b>
+    Iғ ʏᴏᴜ ᴀʟꜱᴏ ᴡᴀɴᴛ ᴛᴏ ᴍᴀᴋᴇ ꜱᴜᴄʜ ᴀ ʙᴏᴛ ᴛʜᴇɴ ᴛᴀʟᴋ ᴛᴏ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ...
+
+    𝐌𝐲 𝐃𝐞𝐯𝐥𝐨𝐩𝐞𝐫 - <a href="https://t.me/af_mhakal">𝗠𝗛𝗔𝗞𝗔𝗟</a>
+    </b>"""
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
 
